@@ -1,0 +1,8 @@
+# Core dependencies for bkt.py, controller.py, tutor_evaluation.py and simulator_v3.ipynb
+numpy>=2.0
+openai>=1.0
+python-dotenv>=1.0
+
+# Needed to open/run the notebook (simulator_v3.ipynb)
+jupyter>=1.0
+ipykernel>=6.0
